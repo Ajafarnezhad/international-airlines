@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+.venv/
+venv/
+
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.ipynb_checkpoints/
+
+# Dataset and generated artifacts -- see data/README.md.
+data/city_pairs.csv
+results/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
